@@ -1,3 +1,4 @@
+alert("You need to refresh the page and enter your name everytime you win or loose the game.")
 var playerName = prompt("Enter your name to play the game:");    
 var firstCharacterSlice = playerName.slice(0,1).toUpperCase();       //Capitalizing the first character in the input.
 var capitalizeWord= (firstCharacterSlice)+(playerName.slice(1));

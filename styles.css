@@ -26,24 +26,24 @@ h1 {
 }
 
 p {
-  font-size: 2rem;
+  font-size: 3rem;
   color: #4ECCA3;
   font-family: 'Lobster', cursive;
 }
 
 /* Button Section */
 .buttons{
-  margin:20px auto;
+  margin:30px auto;
 }
 .btn{
   background-color:#232931 ;
   border-radius: 1rem;
   color: #4ECCA3;
   display: block;
-  font-size: 1.5rem;
-  margin: 5px auto;
-  padding: 5px 55px;
-  position: relative; 
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin: 20px auto;
+  padding: 15px 55px;
 }
 
 /* Footer Section */

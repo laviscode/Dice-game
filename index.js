@@ -1,4 +1,4 @@
-alert("🎲Welcome to the dice game.🎲\nThe higher number on the dice represents the winner")
+alert("🎲Welcome to the dice game.🎲\nThe higher number on the dice represents the winner.Enjoy the game🥳")
 var player1 = "Player 1";      
 var player2 = "Player 2";
 

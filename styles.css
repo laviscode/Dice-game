@@ -1,17 +1,20 @@
+body {
+  background-color: #393E46;
+}
+
 .container {
   width: 70%;
   margin: auto;
   text-align: center;
 }
 
+/* Image and dice section */
+img {
+  width: 80%;
+}
 .dice {
   text-align: center;
   display: inline-block;
-
-}
-
-body {
-  background-color: #393E46;
 }
 
 h1 {
@@ -25,17 +28,32 @@ h1 {
 p {
   font-size: 2rem;
   color: #4ECCA3;
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Lobster', cursive;
 }
 
-img {
-  width: 80%;
+/* Button Section */
+.buttons{
+  margin:20px auto;
+}
+.btn{
+  background-color:#232931 ;
+  border-radius: 1rem;
+  color: #4ECCA3;
+  display: block;
+  font-size: 1.5rem;
+  margin: 5px auto;
+  padding: 5px 55px;
+  position: relative; 
 }
 
+/* Footer Section */
 footer {
   margin-top: 5%;
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
-
+}
+.footer{
+  font-family: 'Fredoka', sans-serif;
+  font-size: 1rem;
 }
